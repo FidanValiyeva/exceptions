@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|c:\\users\\asus\\source\\repos\\iwilltry\\iwilltry\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|solutionrelative:iwilltry\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|c:\\users\\asus\\source\\repos\\iwilltry\\iwilltry\\enams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|solutionrelative:iwilltry\\enams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|c:\\users\\asus\\source\\repos\\iwilltry\\iwilltry\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|solutionrelative:iwilltry\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|c:\\users\\asus\\source\\repos\\iwilltry\\iwilltry\\pricemustbegretherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|solutionrelative:iwilltry\\pricemustbegretherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|c:\\users\\asus\\source\\repos\\iwilltry\\iwilltry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF809C08-BE16-4551-8226-A2CA3CE6A8C8}|iwilltry\\iwilltry.csproj|solutionrelative:iwilltry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Store.cs",
+              "RelativeDocumentMoniker": "iwilltry\\Store.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Store.cs",
+              "RelativeToolTip": "iwilltry\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:16:03.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Product.cs",
+              "RelativeDocumentMoniker": "iwilltry\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Product.cs",
+              "RelativeToolTip": "iwilltry\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:17:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enams.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Enams.cs",
+              "RelativeDocumentMoniker": "iwilltry\\Enams.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Enams.cs",
+              "RelativeToolTip": "iwilltry\\Enams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:16:31.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceMustBeGretherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\PriceMustBeGretherThanZeroException.cs",
+              "RelativeDocumentMoniker": "iwilltry\\PriceMustBeGretherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\PriceMustBeGretherThanZeroException.cs",
+              "RelativeToolTip": "iwilltry\\PriceMustBeGretherThanZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:19:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Program.cs",
+              "RelativeDocumentMoniker": "iwilltry\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\iwilltry\\iwilltry\\Program.cs",
+              "RelativeToolTip": "iwilltry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:11:47.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\bin\Debug\net8.0\iwilltry.exe
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\bin\Debug\net8.0\iwilltry.deps.json
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\bin\Debug\net8.0\iwilltry.runtimeconfig.json
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\bin\Debug\net8.0\iwilltry.dll
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\bin\Debug\net8.0\iwilltry.pdb
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.dll
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\refint\iwilltry.dll
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.pdb
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\iwilltry.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\iwilltry\iwilltry\obj\Debug\net8.0\ref\iwilltry.dll
